@@ -15,7 +15,7 @@ body {
 	width: 50%;
 	max-width: 1000px;
 	min-height: 100px;
-	background-color: rgb(180, 119, 40);
+	background-color: rgb(245, 239, 231);
 	margin: 5px;
 	display: grid;
 	grid-template-columns: 2fr 4fr;
@@ -24,14 +24,14 @@ body {
 	position: initial;
 	justify-content: flex-start;
     background-image: -moz-linear-gradient();
-	background-color: rgb(233, 67, 84);
+	background-color: rgb(67, 233, 150);
 	padding: 20px;
 
 }
 .right {
 	position: initial;
 	justify-content: flex-start;
-	background-color: rgb(211, 255, 227);
+	background-color: rgb(255, 245, 211);
 	padding: 20px;
 
 }
